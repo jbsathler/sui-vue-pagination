@@ -1,0 +1,18 @@
+{
+    "name": "sui-vue-pagination",
+    "version" : "1.0.0",
+    "description": "A Pagination component for Semantic-UI-Vue.",
+    "main": "./lib/sui-pagination.vue",
+    "author": {
+        "name": "Jaderson Barreto Sathler",
+        "email": "jbsathler@gmail.com",
+        "url": "https://jbsathler.github.io"
+    },
+    "license": "MIT",
+    "repository": "git://github.com/jbsathler/sui-vue-pagination.git",
+    "dependencies": {
+        "semantic-ui-css": "^2.4.1",
+        "semantic-ui-vue": "^0.11.0",
+        "vue": "^2.6.11"
+    }
+}
